@@ -1,3 +1,3 @@
-# babel7-corejs3
+# babel7-core-js3
 
 branchNew from master
